@@ -19,15 +19,17 @@ As a data analyst who is excited to build this dashboard and perform the followi
 3.	Create relevant insights not provided in the metric list/stakeholder meeting.
 
 
-Project Title: Supply Chain Analytics 
+
+# Project Title: Supply Chain Analytics 
 
 
-Project Short Info: 
+
+# Project Short Info: 
 
 Built a Power BI dashboard to monitor On-Time, In-Full, and On-Time In-Full (OTIF) delivery performance across customer orders, enabling rapid identification of service gaps and data-informed decisions.
 
 
-Project Description:
+# Project Description:
 
 Developed an end-to-end interactive dashboard using Power BI to monitor delivery performance for AtliQ Mart, a fast-growing FMCG company. The dashboard tracked three core service metrics - On-Time Delivery %, In-Full Delivery %, and OTIF % - mapped against customer-specific targets. Leveraging historical order data, I created dynamic visualisations that allowed the supply chain team to monitor customer performance daily, identify recurring delivery failures, and prioritise issue resolution. Additional insights, such as trend anomalies and underperforming products, were generated beyond the stakeholder-defined scope. The dashboard included slicers by city, product, customer, and date for operational agility and strategic planning.
 
